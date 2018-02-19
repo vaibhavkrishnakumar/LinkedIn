@@ -3,6 +3,8 @@
 A collection of documents that are published on my LinkedIn profile.
 
 ## Contents
+Current CV (last updated: December 2017)
+
 Mathematics Lecture on Queueing Theory (2018)
 
 Industrial Placement at Morgan Stanley (2017)
