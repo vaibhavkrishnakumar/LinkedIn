@@ -1,6 +1,6 @@
 # LinkedIn
 
-A collection of documents that are published on my LinkedIn profile.
+A collection of documents that are published on my [LinkedIn](https://www.linkedin.com/in/vaibhavkrishnakumar/) profile.
 
 ## Contents
 Current CV (last updated: December 2017)
