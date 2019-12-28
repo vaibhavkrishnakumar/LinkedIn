@@ -3,7 +3,7 @@
 A collection of documents that are published on my [LinkedIn](https://www.linkedin.com/in/vaibhavkrishnakumar/) profile.
 
 ## Contents
-Current CV (last updated: December 2017)
+Current CV (last updated: December 2019)
 
 Mathematics Lecture on Queueing Theory (2018)
 
